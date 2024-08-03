@@ -35,7 +35,7 @@ function Testomonial() {
                   <span className="title-font font-medium text-green-500">
                     HP
                   </span>
-                  <span className="text-gray-500 text-sm">UI DEVELOPER</span>
+                  <span className="text-green-500 text-sm">Best Display</span>
                 </span>
               </a>
             </div>
@@ -69,7 +69,7 @@ function Testomonial() {
                   <span className="title-font font-medium text-green-500">
                     HP
                   </span>
-                  <span className="text-gray-500 text-sm">DESIGNER</span>
+                  <span className="text-green-500 text-sm">Attractive</span>
                 </span>
               </a>
             </div>
