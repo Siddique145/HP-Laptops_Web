@@ -3,14 +3,11 @@ function Header() {
     <header className="text-gray-600 body-font">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-          <svg
-            xmlns="https://siddique145.github.io/Portfolio2/img/My%20picture.jpg"
-            className="w-10 h-10 text-white p-2 bg-green-500 rounded-full"
-            viewBox="0 0 24 24"
-          >
-            <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
-          </svg>
-          <span className="ml-3 text-xl">Laptops</span>
+          <img
+            src="https://th.bing.com/th/id/R.202bd3e18cfac98e430f900b6378887b?rik=xLcbWmLfiAY%2bEA&pid=ImgRaw&r=0"
+            className="w-12 h-12 text-white  border-solid border-green-500 border-2 rounded-full"
+          />
+          <span className="ml-3 text-xl"><h1>HP Laptop</h1></span>
         </a>
         <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
           <a className="mr-5 hover:text-gray-900"></a>
