@@ -43,7 +43,7 @@ function Testomonial() {
           <div className="p-4 md:w-1/2 w-full">
             <div className="h-full bg-gray-100 p-8 rounded">
               <img
-                src="https://th.bing.com/th/id/OIP.CXkiacfuOheI_YiY6x1VkAHaHa?w=1200&h=1200&rs=1&pid=ImgDetMain"
+                 src="https://th.bing.com/th/id/OIP.I8FYf7rInI2E733181r0-QHaHa?rs=1&pid=ImgDetMain"
                 alt=""
               />
               {/* <svg
@@ -62,7 +62,7 @@ function Testomonial() {
               <a className="inline-flex items-center">
                 <img
                   alt="testimonial"
-                  src="https://th.bing.com/th/id/OIP.I8FYf7rInI2E733181r0-QHaHa?rs=1&pid=ImgDetMain"
+                 src="https://th.bing.com/th/id/R.f72a19aa983e9338b65d33ea0df15a8f?rik=cA53sdah1dn5SA&pid=ImgRaw&r=0"
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"
                 />
                 <span className="flex-grow flex flex-col pl-4">
