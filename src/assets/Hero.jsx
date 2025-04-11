@@ -29,7 +29,7 @@ function Hero() {
           <img
             className="object-cover object-center rounded h-3/6"
             alt="hero"
-            src="https://th.bing.com/th?id=OIF.Xv%2bcoZ4fw5BUYZSj11nmEA&rs=1&pid=ImgDetMain"
+            src="https://th.bing.com/th/id/OIP.WI6piKziysuhT48HbDwKZgHaFj?w=201&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
           />
         </div>
       </div>
