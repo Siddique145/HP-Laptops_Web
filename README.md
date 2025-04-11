@@ -1,8 +1,30 @@
-# React + Vite
+# HP Laptops Website Clone 💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive HP Laptops website clone built using React.js, Tailwind CSS, and Tailblocks — deployed on Vercel.
 
-Currently, two official plugins are available:
+> Live Demo: [https://hp-laptops-web.vercel.app/](https://hp-laptops-web.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## Tech Stack Used 🛠️
+
+- React.js ⚛️
+- Tailwind CSS 🎨
+- Tailblocks Components 🚀
+- React Router DOM 🔗
+- Heroicons & React Icons ⭐
+- Vercel Deployment 🌍
+
+---
+
+## Features ✨
+
+- Fully Responsive Design (Mobile / Tablet / Desktop)
+- Clean Modern UI
+- Product Listing Section
+- Laptop Details Cards
+- Navigation Bar
+- Footer Section
+- Tailblocks Ready-made Components
+- Easy to Customize
+- Fast Loading & SEO Friendly
